@@ -57,4 +57,14 @@ public class CalculatorTest {
 
         assertEquals(14400, Calculator.multiply(120, 120));
     }
+    @DisplayName("Testing falty() method")
+    @Test
+    public void testFalty() {
+        double res = Calculator.falty(3);
+        assertEquals(6, res);
+
+        assertEquals(120, Calculator.falty(5));
+
+        assertEquals(3628800, Calculator.falty(10));
+    }
 }

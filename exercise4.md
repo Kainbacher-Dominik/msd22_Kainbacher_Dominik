@@ -21,4 +21,4 @@ Testcases:
 
 
 ![Test Coverage](resources/images/ex4_1.png)
-![Compiler](resources/images/ex3_2.png)
+![Error](resources/images/ex4_2.png)
