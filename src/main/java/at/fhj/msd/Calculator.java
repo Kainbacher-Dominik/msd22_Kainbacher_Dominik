@@ -17,6 +17,7 @@ public class Calculator {
         logger.debug("divide "+num1+" by "+num2);
         if(num2==0.0){
             logger.error("divide by 0");
+            throw new ArithmeticException();
         }
         return num1/num2;
     }
