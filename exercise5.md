@@ -22,7 +22,6 @@
 3) Programmatically, by calling the APIs exposed in the Configuration interface to add components to the default configuration.
 4) Programmatically, by calling methods on the internal Logger class.
 
-
 ![Status](resources/images/ex5_1.png)
 ![Console](resources/images/ex5_2.png)
 ![Log](resources/images/ex5_3.png)
