@@ -1,5 +1,6 @@
 //Kainbacher Dominik
 //Calculator object to add,subtract,divide, multiply and calculate the fakulty
+
 package at.fhj.msd;
 
 import org.apache.logging.log4j.LogManager;

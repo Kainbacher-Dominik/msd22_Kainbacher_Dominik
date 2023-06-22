@@ -1,5 +1,6 @@
 //Kainbacher Dominik
 //Reads runtime arguments and uses the calculator class
+
 package at.fhj.msd;
 
 import org.apache.logging.log4j.LogManager;
