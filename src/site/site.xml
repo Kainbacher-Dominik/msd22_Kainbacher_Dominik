@@ -1,0 +1,13 @@
+<project name="Calculator">
+    <publishDate position="right"/>
+    <version position="left"/>
+    <body>
+        <menu name="Overview">
+            <item name="Introduction" href="README.html"/>
+            <item name="Test" href="CalculatorTest.html"/>
+            <item name="Programm" href="Calculator.html"/>
+            <item name="good_style" href="good_styles.html"/>
+        </menu>
+        <menu ref="reports"/>
+    </body>
+</project>

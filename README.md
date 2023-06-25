@@ -3,5 +3,6 @@
 + [exercise3](exercise3.md)
 + [exercise4](exercise4.md)
 + [exercise5](exercise5.md)
++ [exercise6](exercise6.md)
 + [GITHUB](https://github.com/Kainbacher-Dominik)
 + [FH-Joanneum](https://www.fh-joanneum.at/data-science-and-artificial-intelligence/master/?gclid=Cj0KCQjwmN2iBhCrARIsAG_G2i4wYkziXPmMod7h5Z9mI0Lp0LVKosfRRWEQWMK8HTMYXSsxaaGiiJcaAnhvEALw_wcB)
